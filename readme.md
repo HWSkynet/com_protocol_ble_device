@@ -19,6 +19,6 @@
 
 ## 合作伙伴
 
-![sample_logo](.\sample_logo.png) ![sample_logo](.\sample_logo.png) ![sample_logo](.\sample_logo.png)
+![sample_logo](sample_logo.png) ![sample_logo](sample_logo.png) ![sample_logo](sample_logo.png)
 
-![sample_logo](.\sample_logo.png) ![sample_logo](.\sample_logo.png) ![sample_logo](.\sample_logo.png)
+![sample_logo](sample_logo.png) ![sample_logo](sample_logo.png) ![sample_logo](sample_logo.png)
